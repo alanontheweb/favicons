@@ -24,14 +24,14 @@
     "<link rel='apple-touch-startup-image' media='(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)' href='apple-touch-startup-image-640x1096.png'>",
     "<link rel='apple-touch-startup-image' media='(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)' href='apple-touch-startup-image-640x920.png'>",
     "<link rel='apple-touch-startup-image' media='(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)' href='apple-touch-startup-image-768x1004.png'>"
-  ],s
+  ],
   "favicons": [
     "<link rel='icon' type='image/png' sizes='16x16' href='favicon-16x16.png'>",
     "<link rel='icon' type='image/png' sizes='230x230' href='favicon-230x230.png'>",
     "<link rel='icon' type='image/png' sizes='32x32' href='favicon-32x32.png'>",
     "<link rel='icon' type='image/png' sizes='96x96' href='favicon-96x96.png'>",
     "<link rel='shortcut icon' href='favicon.ico'>"
-  ],s
+  ],
   "opengraph": [
     "<meta property='og:image' content='open-graph.png'>"
   ],
